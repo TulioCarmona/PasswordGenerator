@@ -1,0 +1,6 @@
+1. https://link-springer-com.bibliotecaipn.idm.oclc.org/chapter/10.1007/978-3-319-45931-8_16
+2. https://docs.python.org/es/3/library/os.html#os.urandom
+3. https://docs.python.org/es/3/library/secrets.html#module-secrets
+4. https://www.lastpass.com/es
+5. https://nordvpn.com/es/blog/nordpass-password-manager/
+6. https://www.riverbankcomputing.com/software/pyqt/
